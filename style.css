@@ -1,0 +1,44 @@
+h1{
+	background: red;
+	font-size: 150%;
+	color: whitesmoke;
+}
+
+header{
+
+	background: #66666;
+	text-align: center;
+}
+nav{
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: Arial, "Time New Roman", serif;
+}
+h2{
+	color: yellow;
+	background: dimgray;
+}
+details{
+	font-style: italic;
+}
+summary{
+	font-style: normal;
+}
+footer{
+	background: red;
+}
+span{
+	height: 50%;
+	width: 50%;
+	background: yellow;
+}
+div{
+	height: 50%;
+	width: 50%;
+	background: blue;
+}
+p{
+	height: 50%;
+	width: 50%;
+	background: orange;
+}
